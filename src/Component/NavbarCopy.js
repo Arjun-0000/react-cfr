@@ -16,7 +16,7 @@ export const NavbarCopy = () => {
                                 <span>Explore</span>
                                 <span className="fa fa-chevron-down ml-2 mt-1"></span>
                             </button>
-                            <ul className="className-dropdown position-absolute list-unstyled">
+                            <ul className="class-dropdown position-absolute list-unstyled">
                                 <h5>classNamees</h5>
                                 <li className="d-flex justify-content-between">
                                     <span>className 6</span>
