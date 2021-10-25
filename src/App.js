@@ -1,15 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 import { Navbar } from './Component/Navbar';
-import { NavbarCopy } from './Component/NavbarCopy';
+import Header from './Component/Header';
 
 function App() {
   return (
     <>
-    <h3 className="">Arun </h3>
-    <p>Arjun Shrestha</p>
     <Navbar />
-    <NavbarCopy />
+    <Header />
     </>
   );
 }
